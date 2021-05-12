@@ -1,7 +1,7 @@
 ---
 date: 2021-05-12
 thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
-title: Service
+title: Knippen
 categories: []
 project_bg_color: "#B53232"
 project_fg_color: "#9D9898"
