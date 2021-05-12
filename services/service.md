@@ -1,6 +1,6 @@
 ---
 date: 2021-05-12
-thumbnail: ''
+thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
 title: Service
 categories: []
 project_bg_color: "#B53232"
